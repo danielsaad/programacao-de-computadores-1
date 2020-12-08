@@ -5,6 +5,6 @@ title: "Aulas de Programação em C - Unicamp"
 tldr: 
 thumbnail: /static_files/presentations/c.png
 links: 
-    - url: https://www.youtube.com/playlist?list=PLmByXagFhf0M1PwD_8Pms2IRViys79t7E
+    - url: /assets/aulas/programacao-em-c-unicamp.zip
       name: zip
 ---
