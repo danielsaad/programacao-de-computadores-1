@@ -5,6 +5,6 @@ title: Videoaulas
 tldr: 
 thumbnail: /static_files/presentations/youtube.png
 links: 
-    - url: 
+    - url: https://www.youtube.com/playlist?list=PLmByXagFhf0M1PwD_8Pms2IRViys79t7E
       name: playlist
 ---
