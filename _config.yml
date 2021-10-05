@@ -1,7 +1,7 @@
 # Site settings
 course_name: "Programação de Computadores 1"
 course_description: "Disciplina de Programação de Computadores 1 dos cursos superiores de Computação do IFB, campus Taguatinga."
-course_semester: "2020/2"
+course_semester: "2021/2"
 
 baseurl: "/programacao-de-computadores-1" # the subpath of your site, e.g. /blog/
 url: "https://danielsaad.com" # the base hostname & protocol for your site
