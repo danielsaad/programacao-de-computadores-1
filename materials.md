@@ -6,6 +6,7 @@ permalink: /materials/
 
 ## Materiais Extras
 
+* [Conteúdo de APC](https://danielsaad.com/algoritmos-e-programacao-de-computadores)
 * [Repositório da Disciplina](https://github.com/danielsaad/PC1-IFB-CC)  
 * [Grupo do Codeforces da Disciplina](https://codeforces.com/group/zEbyEyC23u/contests)
 * [Cheatsheet C](/assets/materiais/c-refcard.pdf)
