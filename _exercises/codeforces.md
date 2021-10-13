@@ -1,7 +1,7 @@
 ---
 type: exercises
 date: 2020-12-07T0:00:06-3:00
-title: Arquivos
+title: Codeforces
 tldr: 
 thumbnail: /static_files/presentations/codeforces.png
 links: 
