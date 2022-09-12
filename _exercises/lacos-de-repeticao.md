@@ -5,6 +5,6 @@ title: Laços de Repetição
 tldr: 
 thumbnail: /static_files/presentations/lacos-de-repeticao.png
 links: 
-    - url: https://vjudge.net/contest/500587
+    - url: https://vjudge.net/contest/515082
       name: Vjudge
 ---
