@@ -5,6 +5,6 @@ title: Vetores
 tldr: 
 thumbnail: /static_files/presentations/vetores.jpg
 links: 
-    - url: /assets/listas-de-exercicios/vetores.pdf
-      name: pdf
+    - url: https://vjudge.net/contest/516296
+      name: Vjudge
 ---
