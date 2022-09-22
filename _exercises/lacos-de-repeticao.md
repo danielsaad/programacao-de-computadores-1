@@ -7,4 +7,6 @@ thumbnail: /static_files/presentations/lacos-de-repeticao.png
 links: 
     - url: https://vjudge.net/contest/515082
       name: Vjudge
+    - url: /assets/listas-de-exercicios/resolucao-estruturas-de-repeticao.zip
+      name: "Solução"
 ---
