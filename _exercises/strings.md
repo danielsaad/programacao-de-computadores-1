@@ -5,6 +5,8 @@ title: Strings
 tldr: 
 thumbnail: /static_files/presentations/strings.png
 links: 
-    - url: /assets/listas-de-exercicios/strings.pdf
-      name: pdf
+    - url: https://vjudge.net/contest/517711
+      name: Vjudge
+    - url: /assets/listas-de-exercicios/resolucao-strings.zip
+      name: "Solução"
 ---
