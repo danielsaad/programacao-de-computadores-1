@@ -5,6 +5,6 @@ title: Matrizes
 tldr: 
 thumbnail: /static_files/presentations/matrizes.jpg
 links: 
-    - url: /assets/listas-de-exercicios/matrizes.pdf
-      name: pdf
+    - url: https://vjudge.net/contest/520176
+      name: Vjudge
 ---
