@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2021-01-03T0:00:02-3:00
+date: 2021-01-03T0:00:03-3:00
 title: Arquivos
 tldr: 
 thumbnail: /static_files/presentations/arquivos.jpeg
