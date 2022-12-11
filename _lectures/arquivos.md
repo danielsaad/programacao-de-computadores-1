@@ -5,7 +5,7 @@ title: Arquivos
 tldr: 
 thumbnail: /static_files/presentations/arquivos.jpeg
 links: 
-    -url: /assets/aulas/argumentos-de-linha-de-comando.pdf
+    - url: /assets/aulas/argumentos-de-linha-de-comando.pdf
       name: Argumentos de Linha de Comando
     - url: /assets/aulas/arquivos-textos.pdf
       name: Arquivos Textos
