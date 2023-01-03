@@ -7,5 +7,7 @@ thumbnail: /static_files/presentations/recursividade.png
 links: 
     - url: /assets/aulas/recursividade.pdf
       name: Parte 1
+    - url: /assets/aulas/recursao-resolucao-problemas.pdf
+      name: Parte 2
 ---
 
