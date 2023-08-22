@@ -5,8 +5,8 @@ title: Vetores
 tldr: 
 thumbnail: /static_files/presentations/vetores.jpg
 links: 
-    - url: https://vjudge.net/contest/516296
-      name: Vjudge
+    - url: https://codeforces.com/group/YhnfeMt4pP/contests
+      name: Codeforces
     - url: /assets/listas-de-exercicios/resolucao-vetores.zip
       name: "Solução"
 ---
