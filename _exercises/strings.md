@@ -5,8 +5,8 @@ title: Strings
 tldr: 
 thumbnail: /static_files/presentations/strings.png
 links: 
-    - url: https://vjudge.net/contest/517711
-      name: Vjudge
+    - url: https://codeforces.com/group/YhnfeMt4pP/contests
+      name: Codeforces
     - url: /assets/listas-de-exercicios/resolucao-strings.zip
       name: "Solução"
 

@@ -5,6 +5,6 @@ title: Matrizes
 tldr: 
 thumbnail: /static_files/presentations/matrizes.jpg
 links: 
-    - url: https://vjudge.net/contest/520176
-      name: Vjudge
+    - url: https://codeforces.com/group/YhnfeMt4pP/contests
+      name: Codeforces
 ---

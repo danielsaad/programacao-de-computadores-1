@@ -5,8 +5,8 @@ title: Laços de Repetição
 tldr: 
 thumbnail: /static_files/presentations/lacos-de-repeticao.png
 links: 
-    - url: https://vjudge.net/contest/515082
-      name: Vjudge
+    - url: https://codeforces.com/group/YhnfeMt4pP/contests
+      name: Codeforces
     - url: /assets/listas-de-exercicios/resolucao-estruturas-de-repeticao.zip
       name: "Solução"
 ---
