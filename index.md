@@ -19,9 +19,9 @@
 - [Depuração]()
 - [Makefile]()
 - [Ponteiros]()
-- [Sábado letivo: registros]()
-- [Arquivos texto]()
-- [Arquivos binários]()
+- [Registros]()
+- [Arquivos-textos]()
+- [Arquivos-binários]()
 - [Recursividade]()
 
 ## Listas de Exercícios
@@ -29,6 +29,6 @@
 ## Materiais
 
 - [Aulas de Programaçãos em C (Unicamp)](assets/aulas/proofs.pdf)
-- [Site APC Daniel Saad]()
+- [Site APC Daniel Saad](https://danielsaad.com/algoritmos-e-programacao-de-computadores)
 
 ## [Notas]()
