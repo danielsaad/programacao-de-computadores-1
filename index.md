@@ -4,7 +4,7 @@
 - Professor: Dr. Daniel Saad Nogueira Nunes
 - [Moodle](https://moodle.danielsaad.com)
 - [Contato](https://danielsaad.com/contato)
-
+- [Inscrição no moodle](https://docs.google.com/forms/d/e/1FAIpQLSfv4l-p4o9ifmU7mx0YXOrRReJ9rdt4cmt7kJnNjUbc1qFjXg/viewform?usp=sf_link)
 ## [Plano de ensino](/assets/planejamento/plano-de-ensino.pdf)
 
 ## Aulas
