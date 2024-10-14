@@ -10,7 +10,8 @@
 ## Aulas
 
 - [Revisão APC: estruturas de decisão](https://danielsaad.com/algoritmos-e-programacao-de-computadores/assets/aulas/estruturas-de-decisao.pdf)
-- [Revisão APC: estruturas de repetição](assets/aulas/conceitos-preliminares.pdf)
+- [Revisão APC: estruturas de repetição (parte 1)](https://danielsaad.com/algoritmos-e-programacao-de-computadores/assets/aulas/estruturas-de-repeticao.pdf)
+- [Revisão APC: estruturas de repetição (parte 2)](https://danielsaad.com/algoritmos-e-programacao-de-computadores/assets/aulas/estruturas-de-repeticao-02.pdf)
 - [Revisão APC: funções](assets/aulas/maquinas-de-turing.pdf)
 - [Revisão APC: vetores](assets/aulas/variantes-de-maquinas-de-turing.pdf)
 - [Revisão APC: strings](assets/aulas/tese-de-church-turing.pdf)
