@@ -5,6 +5,7 @@
 - [Moodle](https://moodle.danielsaad.com)
 - [Contato](https://danielsaad.com/contato)
 - [Inscrição no moodle](https://docs.google.com/forms/d/e/1FAIpQLSfv4l-p4o9ifmU7mx0YXOrRReJ9rdt4cmt7kJnNjUbc1qFjXg/viewform?usp=sf_link)
+
 ## [Plano de ensino](/assets/planejamento/plano-de-ensino.pdf)
 
 ## Aulas
@@ -27,9 +28,8 @@
 
 ## Listas de Exercícios
 
-- [Estruturas de decisão](https://moj.naquadah.com.br/cgi-bin/contest.sh/saad_estruturas_de_decisao)
-
-- [Laços de repetição](assets/aulas/redutibilidade.pdf)
+- [Estruturas de decisão](https://moj.naquadah.com.br/cgi-bin/contest.sh/saad_estruturas_de_decisao)([Entradas e Saídas]())
+- [Laços de repetição](https://moj.naquadah.com.br/cgi-bin/contest.sh/saad_pc1_2024_2_lacos_de_repeticao)([Entradas e Saídas]())
 
 ## Materiais
 
