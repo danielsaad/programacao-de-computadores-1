@@ -7,7 +7,7 @@ Suponha que você queira testar o seu programa, chamado de `exec`,
 contra o caso de teste 30 do problema `fizz-buzz`. No terminal, você 
 pode fazer:
 
-`./exec < fizz-buzz/30`
+`./exec < fizz-buzz/input/30`
 
 Assim você não precisará digitar o caso de teste no teclado, pois ele
 repassará o conteúdo do arquivo para o teclado através do operador
