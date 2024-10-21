@@ -12,11 +12,11 @@
 - [Revisão APC: estruturas de decisão](https://danielsaad.com/algoritmos-e-programacao-de-computadores/assets/aulas/estruturas-de-decisao.pdf)
 - [Revisão APC: estruturas de repetição (parte 1)](https://danielsaad.com/algoritmos-e-programacao-de-computadores/assets/aulas/estruturas-de-repeticao.pdf)
 - [Revisão APC: estruturas de repetição (parte 2)](https://danielsaad.com/algoritmos-e-programacao-de-computadores/assets/aulas/estruturas-de-repeticao-02.pdf)
-- [Revisão APC: funções](assets/aulas/maquinas-de-turing.pdf)
-- [Revisão APC: vetores](assets/aulas/variantes-de-maquinas-de-turing.pdf)
-- [Revisão APC: strings](assets/aulas/tese-de-church-turing.pdf)
-- [Matrizes](assets/aulas/problema-da-parada.pdf)
-- [Modularização](assets/aulas/redutibilidade.pdf)
+- [Revisão APC: funções](https://danielsaad.com/algoritmos-e-programacao-de-computadores/assets/aulas/funcoes.pdf)
+- [Revisão APC: vetores](https://danielsaad.com/algoritmos-e-programacao-de-computadores/assets/aulas/vetores.pdf)
+- [Revisão APC: strings](https://danielsaad.com/algoritmos-e-programacao-de-computadores/assets/aulas/strings.pdf)
+- [Matrizes]()
+- [Modularização]()
 - [Depuração]()
 - [Makefile]()
 - [Ponteiros]()
@@ -27,9 +27,14 @@
 
 ## Listas de Exercícios
 
+- [Estruturas de decisão](https://moj.naquadah.com.br/cgi-bin/contest.sh/saad_estruturas_de_decisao)
+
+- [Laços de repetição](assets/aulas/redutibilidade.pdf)
+
 ## Materiais
 
 - [Aulas de Programaçãos em C (Unicamp)](assets/aulas/proofs.pdf)
 - [Site APC Daniel Saad](https://danielsaad.com/algoritmos-e-programacao-de-computadores)
+- [MOJ](https://moj.naquadah.com.br)
 
 ## [Notas]()
