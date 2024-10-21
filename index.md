@@ -28,11 +28,12 @@
 
 ## Listas de Exercícios
 
-- [Estruturas de decisão](https://moj.naquadah.com.br/cgi-bin/contest.sh/saad_estruturas_de_decisao)([Entradas e Saídas]())
-- [Laços de repetição](https://moj.naquadah.com.br/cgi-bin/contest.sh/saad_pc1_2024_2_lacos_de_repeticao)([Entradas e Saídas]())
+- [Estruturas de decisão](https://moj.naquadah.com.br/cgi-bin/contest.sh/saad_estruturas_de_decisao) [[Entradas e Saídas]](assets/entradas-e-saidas/estruturas-de-decisao-io.zip) 
+- [Laços de repetição](https://moj.naquadah.com.br/cgi-bin/contest.sh/saad_pc1_2024_2_lacos_de_repeticao) [[Entradas e Saídas]](assets/entradas-e-saidas/estruturas-de-repeticao-io.zip)
 
 ## Materiais
 
+- [Como usar os casos de teste](assets/entradas-e-saidas/como-usar-os-arquivos-de-teste.md)
 - [Aulas de Programaçãos em C (Unicamp)](assets/aulas/proofs.pdf)
 - [Site APC Daniel Saad](https://danielsaad.com/algoritmos-e-programacao-de-computadores)
 - [MOJ](https://moj.naquadah.com.br)
