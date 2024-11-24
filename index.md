@@ -30,10 +30,10 @@
 
 ## Listas de Exercícios
 
-- [Estruturas de decisão](https://moj.naquadah.com.br/cgi-bin/contest.sh/saad_estruturas_de_decisao) [[Entradas e Saídas]](assets/entradas-e-saidas/estruturas-de-decisao-io.zip) 
-- [Laços de repetição](https://moj.naquadah.com.br/cgi-bin/contest.sh/saad_pc1_2024_2_lacos_de_repeticao) [[Entradas e Saídas]](assets/entradas-e-saidas/estruturas-de-repeticao-io.zip)
-- [Vetores](https://moj.naquadah.com.br/cgi-bin/contest.sh/saad_pc1_2024_2_lacos_de_repeticao) [[Entradas e Saídas (parte 1)]](assets/entradas-e-saidas/vetores-io.zip) [[Entradas e Saídas (parte 2)]](assets/entradas-e-saidas/vetores-io.z01) [[Entradas e Saídas (parte 3)]](assets/entradas-e-saidas/vetores-io.z02)
-- [Strings](https://moj.naquadah.com.br/cgi-bin/contest.sh/saad_pc1_2024_2_lacos_de_repeticao) [[Entradas e Saídas]](assets/entradas-e-saidas/strings-io.zip)
+- [Estruturas de decisão](https://moj.naquadah.com.br/cgi-bin/contest.sh/saad_estruturas_de_decisao) [[Entradas e Saídas]](https://heimdall.danielsaad.com/pc1/estruturas-de-decisao-io.zip) 
+- [Laços de repetição](https://moj.naquadah.com.br/cgi-bin/contest.sh/saad_pc1_2024_2_lacos_de_repeticao) [[Entradas e Saídas]](https://heimdall.danielsaad.com/pc1/estruturas-de-repeticao-io.zip)
+- [Vetores](https://moj.naquadah.com.br/cgi-bin/contest.sh/saad_pc1_2024_2_lacos_de_repeticao) [[Entradas e Saídas]](https://heimdall.danielsaad.com/pc1/vetores-io.zip)
+- [Strings](https://moj.naquadah.com.br/cgi-bin/contest.sh/saad_pc1_2024_2_lacos_de_repeticao) [[Entradas e Saídas]](https://heimdall.danielsaad.com/pc1/strings-io.zip)
 
 ## Materiais
 
