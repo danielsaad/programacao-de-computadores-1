@@ -32,7 +32,7 @@
 
 - [Estruturas de decisão](https://moj.naquadah.com.br/cgi-bin/contest.sh/saad_estruturas_de_decisao) [[Entradas e Saídas]](assets/entradas-e-saidas/estruturas-de-decisao-io.zip) 
 - [Laços de repetição](https://moj.naquadah.com.br/cgi-bin/contest.sh/saad_pc1_2024_2_lacos_de_repeticao) [[Entradas e Saídas]](assets/entradas-e-saidas/estruturas-de-repeticao-io.zip)
-- [Vetores](https://moj.naquadah.com.br/cgi-bin/contest.sh/saad_pc1_2024_2_lacos_de_repeticao) [[Entradas e Saídas]](assets/entradas-e-saidas/vetores-io.zip)
+- [Vetores](https://moj.naquadah.com.br/cgi-bin/contest.sh/saad_pc1_2024_2_lacos_de_repeticao) [[Entradas e Saídas]](assets/entradas-e-saidas/vetores-io.7z)
 - [Strings](https://moj.naquadah.com.br/cgi-bin/contest.sh/saad_pc1_2024_2_lacos_de_repeticao) [[Entradas e Saídas]](assets/entradas-e-saidas/strings-io.zip)
 
 ## Materiais
