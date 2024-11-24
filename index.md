@@ -30,10 +30,10 @@
 
 ## Listas de Exercícios
 
-- [Estruturas de decisão](https://moj.naquadah.com.br/cgi-bin/contest.sh/saad_estruturas_de_decisao) [[Entradas e Saídas]](https://heimdall.danielsaad.com/pc1/estruturas-de-decisao-io.zip) 
-- [Laços de repetição](https://moj.naquadah.com.br/cgi-bin/contest.sh/saad_pc1_2024_2_lacos_de_repeticao) [[Entradas e Saídas]](https://heimdall.danielsaad.com/pc1/estruturas-de-repeticao-io.zip)
-- [Vetores](https://moj.naquadah.com.br/cgi-bin/contest.sh/saad_pc1_2024_2_lacos_de_repeticao) [[Entradas e Saídas]](https://heimdall.danielsaad.com/pc1/vetores-io.zip)
-- [Strings](https://moj.naquadah.com.br/cgi-bin/contest.sh/saad_pc1_2024_2_lacos_de_repeticao) [[Entradas e Saídas]](https://heimdall.danielsaad.com/pc1/strings-io.zip)
+- [Estruturas de decisão](https://moj.naquadah.com.br/cgi-bin/contest.sh/saad_estruturas_de_decisao) [[Entradas e Saídas]](https://data.danielsaad.com/pc1/estruturas-de-decisao-io.zip) 
+- [Laços de repetição](https://moj.naquadah.com.br/cgi-bin/contest.sh/saad_pc1_2024_2_lacos_de_repeticao) [[Entradas e Saídas]](https://data.danielsaad.com/pc1/estruturas-de-repeticao-io.zip)
+- [Vetores](https://moj.naquadah.com.br/cgi-bin/contest.sh/saad_pc1_2024_2_lacos_de_repeticao) [[Entradas e Saídas]](https://data.danielsaad.com/pc1/vetores-io.zip)
+- [Strings](https://moj.naquadah.com.br/cgi-bin/contest.sh/saad_pc1_2024_2_lacos_de_repeticao) [[Entradas e Saídas]](https://data.danielsaad.com/pc1/strings-io.zip)
 
 ## Materiais
 
