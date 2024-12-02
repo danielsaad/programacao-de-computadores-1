@@ -17,7 +17,7 @@
 - [Revisão APC: vetores](https://danielsaad.com/algoritmos-e-programacao-de-computadores/assets/aulas/vetores.pdf)
 - [Revisão APC: strings](https://danielsaad.com/algoritmos-e-programacao-de-computadores/assets/aulas/strings.pdf)
 - [Matrizes](assets/aulas/matrizes.pdf)
-- [Modularização](assets/aulas/modularizacao.pdf)
+- [Modularização](assets/aulas/modularizacao.pdf)[[Exemplo de aplicação modularizada]](assets/modularizacao-strings.tar.gz)
 - [Depuração](assets/aulas/depuracao.pdf)
 - [Makefile](assets/aulas/makefile.pdf)
 - [Ponteiros](assets/aulas/ponteiros.pdf)
