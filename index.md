@@ -44,4 +44,4 @@
 - [Site APC Daniel Saad](https://danielsaad.com/algoritmos-e-programacao-de-computadores)
 - [MOJ](https://moj.naquadah.com.br)
 
-## [Notas]()
+## [Notas](assets/notas.pdf)
