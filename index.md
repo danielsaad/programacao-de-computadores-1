@@ -35,6 +35,7 @@
 - [Vetores](https://moj.naquadah.com.br/cgi-bin/contest.sh/saad_pc1_2024_2_lacos_de_repeticao) [[Entradas e Saídas]](https://data.danielsaad.com/pc1/vetores-io.zip)
 - [Strings](https://moj.naquadah.com.br/cgi-bin/contest.sh/saad_2024_2_pc1_strings) [[Entradas e Saídas]](https://data.danielsaad.com/pc1/strings-io.zip)
 - [Matrizes](https://moj.naquadah.com.br/cgi-bin/contest.sh/saad_2024_2_pc1_matrizes) [[Entradas e Saídas]](https://data.danielsaad.com/pc1/matrizes-io.zip)
+- [Ponteiros](assets/listas-de-exercicios/ponteiros.pdf)
 
 ## Materiais
 
