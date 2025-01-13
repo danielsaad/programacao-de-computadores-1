@@ -8,6 +8,10 @@
 
 ## [Plano de ensino](/assets/planejamento/plano-de-ensino.pdf)
 
+## Projetos
+
+-[Fórmula 1](/assets/trabalhos/formula-1.pdf)
+
 ## Aulas
 
 - [Revisão APC: estruturas de decisão](https://danielsaad.com/algoritmos-e-programacao-de-computadores/assets/aulas/estruturas-de-decisao.pdf)
