@@ -10,7 +10,7 @@
 
 ## Projetos
 
--[Fórmula 1](/assets/trabalhos/formula-1.pdf)
+- [Fórmula 1](/assets/trabalhos/formula-1.pdf)
 
 ## Aulas
 
