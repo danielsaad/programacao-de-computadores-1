@@ -1,0 +1,47 @@
+title: Linguagens Formais e Autômatos
+email: daniel.nunes@ifb.edu.br
+url: https://danielsaad.com
+baseurl: /linguagens-formais-e-automatos
+description: ""
+show_downloads: false
+color-scheme: auto
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
+
+# You can find fonts from https://iconify.design or https://fontawesome.com. Below is just an example illustrating how to use custom icons
+sidebar:
+  - name: Home
+    icon: <i class="fa-solid fa-home"></i>
+    link: https://danielsaad.com/linguagens-formais-e-automatos
+  - name: Plano de Ensino
+    icon: <i class="fas fa-calendar"></i>
+    link: assets/planejamento/plano-de-ensino.pdf
+  - name: Aulas
+    icon: <i class="fa-solid fa-chalkboard-user"></i>
+    link: aulas
+  - name: Exercícios
+    icon: <i class='fas fa-dumbbell'></i>
+    link: exercicios
+  # - name: Projetos
+  #   icon: <i class='fas fa-project-diagram'></i>
+  #   link: projetos
+  - name: Materiais
+    icon: <i class='fas fa-book'></i>
+    link: materiais
+  - name: Notas
+    icon: <i class='fas fa-medal'></i>
+    link: assets/notas.pdf
+  - name: Contato
+    icon: <i class='fas fa-user-circle'></i>
+    link: https://danielsaad.com/contato
+
+# https://github.com/github/pages-gem/issues/399#issuecomment-301827749
+# When running locally, we run into the following error —
+# GitHub Metadata: No GitHub API authentication could be found. Some fields may be missing or have incorrect data.
+# adding this avoids it
+github: [metadata]
+
+exclude:
+  - src

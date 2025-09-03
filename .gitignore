@@ -1,10 +1,6 @@
-assets/provas-anteriores
-assets/boxplot.pdf
-assets/notas-nomes.pdf
-assets/notas-nomes.aux
-assets/notas-nomes.log
-assets/notas.aux
-assets/provas
-assets/notas-nomes.tex
-assets/notas.log
-src
+.sass-cache
+_site
+.jekyll-cache
+*.lock
+_assignments/dummy_assignment.md
+src/
