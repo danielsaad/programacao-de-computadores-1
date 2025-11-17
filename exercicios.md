@@ -10,4 +10,6 @@ layout: default
 - [Strings](https://moj.naquadah.com.br/cgi-bin/contest.sh/saad_pc1_2025_2_strings)
 - [Matrizes](https://moj.naquadah.com.br/cgi-bin/contest.sh/saad_pc1_2025_2_matrizes)
 - [Ponteiros](assets/listas-de-exercicios/ponteiros.pdf)
-- [Recursão]()
+- [Registros](assets/listas-de-exercicios/registros.pdf)
+- [Arquivos](assets/listas-de-exercicios/arquivos.pdf)
+- [Recursão](https://moj.naquadah.com.br/cgi-bin/contest.sh/saad_pc1_2025_2_recursao)
