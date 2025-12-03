@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2025.8.27)  14 OCT 2025 14:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2025.11.15)  3 DEC 2025 11:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -323,7 +323,7 @@ File: /home/danielsaad/git/ifb/disciplinas/programacao-de-computadores-1/assets
 <use /home/danielsaad/git/ifb/disciplinas/programacao-de-computadores-1/assets/
 boxplot.pdf>
 Package pdftex.def Info: /home/danielsaad/git/ifb/disciplinas/programacao-de-co
-mputadores-1/assets/boxplot.pdf  used on input line 61.
+mputadores-1/assets/boxplot.pdf  used on input line 51.
 (pdftex.def)             Requested size: 669.20844pt x 584.0343pt.
 
 
@@ -335,19 +335,19 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 fb/disciplinas/programacao-de-computadores-1/assets/boxplot.pdf>]
 (./notas-nomes.aux) ) 
 Here is how much of TeX's memory you used:
- 5036 strings out of 476041
- 83759 string characters out of 5793174
- 1903388 words of memory out of 6000000
- 25437 multiletter control sequences out of 15000+600000
+ 5035 strings out of 476041
+ 83751 string characters out of 5793173
+ 1889388 words of memory out of 6000000
+ 25436 multiletter control sequences out of 15000+600000
  515322 words of font info for 42 fonts, out of 8000000 for 9000
  1137 hyphenation exceptions out of 8191
  57i,7n,62p,262b,287s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
 12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on notas-nomes.pdf (2 pages, 62794 bytes).
+Output written on notas-nomes.pdf (2 pages, 61122 bytes).
 PDF statistics:
- 67 PDF objects out of 1000 (max. 8388607)
+ 68 PDF objects out of 1000 (max. 8388607)
  20 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
